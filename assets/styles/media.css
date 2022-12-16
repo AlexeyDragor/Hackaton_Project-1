@@ -1,0 +1,72 @@
+@media (max-width: 1200px) {
+    .hero__desc {
+        max-width: 970px;
+    }
+
+}
+
+@media (max-width: 1080px) {
+    .gallery__container {
+        max-width: 970px;
+    }
+}
+
+@media (max-width: 992px) {
+    .container {
+        max-width: 750px;
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        max-width: none;
+    }
+}
+
+@media (max-width: 600px) {
+    .container {
+        max-width: none;
+    }
+}
+
+@media (max-width: 560px) {
+    .container {
+        max-width: none;
+    }
+}
+
+@media (max-width: 542px) {
+    .container {
+        max-width: none;
+    }
+}
+
+@media (max-width: 520px) {
+    .container {
+        max-width: none;
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        max-width: none;
+    }
+}
+
+@media (max-width: 460px) {
+    .container {
+        max-width: none;
+    }
+}
+
+@media (max-width: 420px) {
+    .container {
+        max-width: none;
+    }
+}
+
+@media (max-width: 390px) {
+    .container {
+        max-width: none;
+    }
+}
