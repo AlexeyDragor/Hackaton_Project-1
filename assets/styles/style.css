@@ -1,3 +1,4 @@
+
 :root {
   --dark-color: #252b42;
   --disabled-color: #737373;
@@ -133,3 +134,13 @@ li {
 }
 
 /* FOOTER CONTACT */
+
+
+.swiper {
+  width: 700px;
+  height: 500px;
+}
+.swiper-slide img{
+    object-fit: cover;
+    object-position: center;
+}
